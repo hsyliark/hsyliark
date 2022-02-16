@@ -1,6 +1,3 @@
-# résumé    
-
-
 ## Profile  
 
 ### Name : Hwang Seong-Yun 
