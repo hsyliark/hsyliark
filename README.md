@@ -63,15 +63,15 @@
 
 ## Some dissertations
 
-### Master's Degree (advisor : Seok-ho Lee)
+### Master's Degree (Advisor : Lee Seok-Ho)
 
 `-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 
-### Doctor's Degree (advisor : Seong-jun Yang)
+### Doctor's Degree (Advisor : Yang Seong-Jun)
 
 `-` (Doctor's thesis, JBNU Graduate school, 2024.8) -> (link : )
 
-### Journal (https://orcid.org/0000-0002-7831-9471)
+### Journals (https://orcid.org/0000-0002-7831-9471)
 
 `-` Lee, S., Han, S., Hwang, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355-362 -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
 
