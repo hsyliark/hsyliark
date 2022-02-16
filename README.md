@@ -1,5 +1,7 @@
 `Jede Niederlage ist die Garantie für dein Weiterkommen.`
 
+`¡El éxito no está lejos de aquí!`
+
 ## Profile  
 
 ### Name : Hwang Seong-Yun 
