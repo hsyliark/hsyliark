@@ -1,3 +1,5 @@
+`-` Jede Niederlage ist die Garantie für dein Weiterkommen.
+
 ## Profile  
 
 ### Name : Hwang Seong-Yun 
