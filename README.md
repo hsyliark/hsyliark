@@ -1,4 +1,4 @@
-`-` Jede Niederlage ist die Garantie für dein Weiterkommen.
+`Jede Niederlage ist die Garantie für dein Weiterkommen.`
 
 ## Profile  
 
