@@ -4,7 +4,7 @@
 
 ## Profile  
 
-### Name : Hwang Seong-Yun 
+### Name : Seong-Yun Hwang 
 ### National : Republic of Korea
 ### E-mail : sungyoonhwang3@gmail.com / hsyliark@korea.kr
 ### Identity : Junior Environmental Research Official (Ministry of Environment, National Institute of Environmental Research, Republic of Korea)
@@ -13,6 +13,8 @@
 - English (Limited conversation for working and social life)
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
+
+`-` My name is Seong-Yun Hwang. I'm Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in Statistical Machine Learning for environmental data analysis. I will receive Ph.D from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
 
 ## Education 
@@ -23,9 +25,9 @@
 
 `-` M.S, Statistics, Hankuk University of Foreign Studies, Seoul, Republic of Korea (2015.3 ~ 2017.2)
 
-`-` Ph.D, Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently) 
+`-` Ph.D, Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently(2024.2)) 
 
-`-` MBA, Artificial Intelligence and Big Data, Kookmin University -> preparing
+`-` Graduate School of Artificial Intelligence and Big Data -> preparing
 
 ### Extra
 
@@ -63,11 +65,11 @@
 
 ## Some dissertations
 
-### Master's Degree (Advisor : Lee Seok-Ho)
+### Master's Degree (Advisor : Seok-Ho Lee)
 
 `-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 
-### Doctor's Degree (Advisor : Yang Seong-Jun)
+### Doctor's Degree (Advisor : Seong-Jun Yang)
 
 `-` (Doctor's thesis, JBNU Graduate school, 2024.8) -> (link : )
 
@@ -102,4 +104,8 @@
 - place : Statistics Korea
 - period : 2016.11.4. ~ 2016.11.5.
 - Tutorial : Bayesian Statistics and Computation
+### 2021 The Korean Statistical Society Thesis presentation seminar in Spring
+- place : Jeonbuk National University
+- period : 2021.5.27. ~ 2021.5.28.
+- Tutorial : Statistical Wars: The Driven Force -Classification
   
