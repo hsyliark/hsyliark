@@ -14,7 +14,7 @@
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
-`-` My name is Seong-Yun Hwang. I'm a Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for environmental data analysis. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
+`-` My name is Seong-Yun Hwang. I'm a Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
 
 ## Education 
