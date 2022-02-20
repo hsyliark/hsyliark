@@ -14,18 +14,18 @@
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
-`-` My name is Seong-Yun Hwang. I'm Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in Statistical Machine Learning for environmental data analysis. I will receive Ph.D from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
+`-` My name is Seong-Yun Hwang. I'm a Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for environmental data analysis. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
 
 ## Education 
 
 ### Formal
 
-`-` B.S, Statistics, Hankuk University of Foreign Studies, Yongin, Republic of Korea (2009.3 ~ 2015.2) 
+`-` B.S, Department of Statistics, Hankuk University of Foreign Studies, Yongin, Republic of Korea (2009.3 ~ 2015.2) 
 
-`-` M.S, Statistics, Hankuk University of Foreign Studies, Seoul, Republic of Korea (2015.3 ~ 2017.2)
+`-` M.S, Department of Statistics, Hankuk University of Foreign Studies, Seoul, Republic of Korea (2015.3 ~ 2017.2)
 
-`-` Ph.D, Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently(2024.2)) 
+`-` Ph.D, Department of Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently(2024.2)) 
 
 `-` Graduate School of Artificial Intelligence and Big Data -> preparing
 
