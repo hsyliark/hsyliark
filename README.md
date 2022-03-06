@@ -21,13 +21,17 @@
 
 ### Formal
 
+#### Bachelor of Science (B.S)
+
 `-` B.S, Department of Statistics, Hankuk University of Foreign Studies, Yongin, Republic of Korea (2009.3 ~ 2015.2) 
+
+#### Master of Science (M.S)
 
 `-` M.S, Department of Statistics, Hankuk University of Foreign Studies, Seoul, Republic of Korea (2015.3 ~ 2017.2)
 
-`-` Ph.D, Department of Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently(2024.2)) 
+#### Doctor of Philosophy (Ph.D)
 
-`-` Graduate School of Artificial Intelligence and Big Data -> preparing
+`-` Ph.D, Department of Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently) 
 
 ### Extra
 
@@ -36,7 +40,7 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Republic of Korea, junior environmental research official (2019.9 ~ currently(2050.9))
+`-` Ministry of Environment, National Institute of Environmental Research, Republic of Korea, junior environmental research official (2019.9 ~ currently)
 
 `-` Korea Statistics Promotion Institute, Statistical service team, Republic of Korea, researcher (2017.2 ~ 2017.5) 
 
@@ -86,12 +90,7 @@
 #### 2022
 
 `-` Jung, K., Lee, K., Hwang, S., Lee, Y., Ha, D., Na, E., Kim, K. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 2022, 27(4) -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
-
-#### 2023
-
-`-` A study on evaluate water quality in Yeongsan River using Least Absolute Shrinkage and Selection Operator(LASSO) Techniques, Republic of Korea () -> (link :)
-
-`-` Analysis of spatio-temporal variation in river water quality using statistical techniques: A case study in the Nakdong River, Republic of Korea () -> (link :) 
+ 
 
 
 ## Experience
