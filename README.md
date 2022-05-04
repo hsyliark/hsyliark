@@ -6,8 +6,8 @@
 
 ### Name : Seong-Yun Hwang 
 ### National : Republic of Korea
-### E-mail : sungyoonhwang3@gmail.com / hsyliark@korea.kr
-### Identity : Junior Environmental Research Official (Ministry of Environment, National Institute of Environmental Research, Republic of Korea)
+### E-mail : sungyoonhwang3@gmail.com / hsyliark@naver.com / hsyliark@korea.kr
+### Identity : Environmental Research Official (Ministry of Environment, National Institute of Environmental Research, Republic of Korea)
 ### Language 
 - Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
@@ -25,11 +25,11 @@
 
 `-` B.S, Department of Statistics, Hankuk University of Foreign Studies, Yongin, Republic of Korea (2009.3 ~ 2015.2) 
 
-#### Master of Science (M.S)
+#### Master of Science (M.S) (Advisor : Prof. Seok-Ho Lee)
 
 `-` M.S, Department of Statistics, Hankuk University of Foreign Studies, Seoul, Republic of Korea (2015.3 ~ 2017.2)
 
-#### Doctor of Philosophy (Ph.D)
+#### Doctor of Philosophy (Ph.D) (Advisor : Prof. Seong-Jun Yang)
 
 `-` Ph.D, Department of Statistics, Jeonbuk National University, Jeonju, Republic of Korea (2020.9 ~ currently) 
 
@@ -40,11 +40,14 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Republic of Korea, junior environmental research official (2019.9 ~ currently)
+`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental research official (2019.9 ~ currently)
+- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental research official (2019.9 ~ 2022.8)
+-
+-
 
-`-` Korea Statistics Promotion Institute, Statistical service team, Republic of Korea, researcher (2017.2 ~ 2017.5) 
+`-` Korea Statistics Promotion Institute, Statistical service team, Seoul, Republic of Korea, researcher (2017.2 ~ 2017.5) 
 
-`-` National Information Society Agency, Big data education team, Republic of Korea, participate researcher (2015.8 ~ 2015.12)
+`-` National Information Society Agency, Big data education team, Seoul, Republic of Korea, participate researcher (2015.8 ~ 2015.12)
 
 `-` Republic of Korea Army, 35 division (military service) (2009.2 ~ 2010.12)
 
@@ -69,11 +72,11 @@
 
 ## Some dissertations
 
-### Master's Degree (Advisor : Seok-Ho Lee)
+### Master's Degree (Advisor : Prof. Seok-Ho Lee)
 
 `-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 
-### Doctor's Degree (Advisor : Seong-Jun Yang)
+### Doctor's Degree (Advisor : Prof. Seong-Jun Yang)
 
 `-` (Doctor's thesis, JBNU Graduate school, 2024.8) -> (link : )
 
