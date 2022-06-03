@@ -6,16 +6,18 @@
 
 ### Name : Seong-Yun Hwang 
 ### National : Republic of Korea
-### E-mail : sungyoonhwang3@gmail.com / hsyliark@naver.com / hsyliark@korea.kr
-### Identity : Environmental Research Official (Ministry of Environment, National Institute of Environmental Research, Republic of Korea)
+### Identity : Junior Environmental Researcher (Ministry of Environment, National Institute of Environmental Research(NIER), Republic of Korea)
 ### Language 
 - Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
-`-` My name is Seong-Yun Hwang. I'm a Junior Environmental Research Official in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
+`-` My name is Seong-Yun Hwang and I'm from Republic of Korea. I'm a Junior Environmental Researcher in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
+## Contact Information
+
+`-` E-mail : sungyoonhwang3@gmail.com / hsyliark@naver.com / hsyliark@korea.kr
 
 ## Education 
 
@@ -40,8 +42,8 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental research official (2019.9 ~ currently)
-- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental research official (2019.9 ~ 2022.8)
+`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental researcher (2019.9 ~ currently)
+- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental researcher (2019.9 ~ 2022.8)
 -
 -
 
@@ -93,6 +95,8 @@
 #### 2022
 
 `-` Jung, K., Lee, K., Hwang, S., Lee, Y., Ha, D., Na, E., Kim, K. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 2022, 27(4) -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
+
+#### 2023
  
 
 
