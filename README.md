@@ -80,7 +80,7 @@
 
 ### Doctor's Degree (Advisor : Prof. Seong-Jun Yang)
 
-`-` (Doctor's thesis, JBNU Graduate school, 2024.8) -> (link : )
+`-` Hwang, S. (2024). ... (Ph.D Dissertation). Jeonbuk National University, Jeonju, Republic of Korea -> (link : ...)
 
 ### Journals (https://orcid.org/0000-0002-7831-9471)
 
@@ -98,7 +98,11 @@
 
 #### 2023
  
+`-`
 
+#### 2024
+
+`-`
 
 ## Experience
 
@@ -122,4 +126,11 @@
 - place : Jeonbuk National University
 - period : 2021.5.27. ~ 2021.5.28.
 - Tutorial : Statistical Wars: The Driven Force -Classification
-  
+### 2022 The Korean Statistical Society Thesis presentation seminar in Summer
+- place : Seoul National University
+- period : 2022.6.23. ~ 2022.6.25.
+- Tutorial : Matching Methods for Causal Inference
+### 2022 The Korean Statistical Society Thesis presentation seminar in Winter
+- place :
+- period :
+- Tutorial :
