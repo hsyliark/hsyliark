@@ -42,7 +42,7 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental researcher 
+`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea 
 - Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental researcher (2019.9 ~ currently)
 -
 -
