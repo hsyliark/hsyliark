@@ -42,8 +42,8 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental researcher (2019.9 ~ currently)
-- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental researcher (2019.9 ~ 2022.8)
+`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea, environmental researcher 
+- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental researcher (2019.9 ~ currently)
 -
 -
 
@@ -86,15 +86,15 @@
 
 #### 2016
 
-`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. \textit{Communications for Statistical Applications and Methods, 23}(4), 355-362. -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
+`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
 
 #### 2020
 
-`-` Jung, K., Cho, S., Hwang, S., Lee, Y., Kim, K., Na, E. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River using Neural Networks and Grade Classification. Multidisciplinary Digital Publishing Institute (MDPI), Sustainability 2020, 12, 9149 -> (link : https://doi.org/10.3390/su12219149) (https://www.mdpi.com/) 
+`-` Jung, K. Y., Cho, S., Hwang, S. Y., Lee, Y., Kim, K., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (link : https://doi.org/10.3390/su12219149) (https://www.mdpi.com/) 
 
 #### 2022
 
-`-` Jung, K., Lee, K., Hwang, S., Lee, Y., Ha, D., Na, E., Kim, K. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 2022, 27(4) -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
+`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y., Ha, D. W., Hye Na, E., & Kim, K. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
 
 #### 2023
  
