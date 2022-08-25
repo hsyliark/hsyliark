@@ -86,7 +86,7 @@
 
 #### 2016
 
-`-` Lee, S., Han, S., Hwang, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355-362 -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
+`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. \textit{Communications for Statistical Applications and Methods, 23}(4), 355-362. -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
 
 #### 2020
 
