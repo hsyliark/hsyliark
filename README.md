@@ -90,11 +90,11 @@
 
 #### 2020
 
-`-` Jung, K. Y., Cho, S., Hwang, S. Y., Lee, Y., Kim, K., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (link : https://doi.org/10.3390/su12219149) (https://www.mdpi.com/) 
+`-` Jung, K. Y., Cho, S. H., Hwang, S. Y., Lee, Y. J., Kim, K. H., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (link : https://doi.org/10.3390/su12219149) (https://www.mdpi.com/) 
 
 #### 2022
 
-`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y., Ha, D. W., Hye Na, E., & Kim, K. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
+`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y. J., Ha, D. W., Na, E. H., & Kim, K. H. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
 
 #### 2023
  
@@ -131,6 +131,6 @@
 - period : 2022.6.23. ~ 2022.6.25.
 - Tutorial : Matching Methods for Causal Inference
 ### 2022 The Korean Statistical Society Thesis presentation seminar in Winter
-- place :
-- period :
-- Tutorial :
+- place : Jeju National University
+- period : 2022.12.1. ~ 2022.12.3.
+- Tutorial : No tutorial...
