@@ -76,7 +76,7 @@
 
 ### Master's Degree (Advisor : Prof. Seok-Ho Lee)
 
-`-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
+`-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea (http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 
 ### Doctor's Degree (Advisor : Prof. Seong-Jun Yang)
 
@@ -86,15 +86,15 @@
 
 #### 2016
 
-`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. -> (https://doi.org/10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
+`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. (https://doi.org/10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
 
 #### 2020
 
-`-` Jung, K. Y., Cho, S. H., Hwang, S. Y., Lee, Y. J., Kim, K. H., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (https://doi.org/10.3390/su12219149) (https://www.mdpi.com/2071-1050/12/21/9149) 
+`-` Jung, K. Y., Cho, S. H., Hwang, S. Y., Lee, Y. J., Kim, K. H., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. (https://doi.org/10.3390/su12219149) (https://www.mdpi.com/2071-1050/12/21/9149) 
 
 #### 2022
 
-`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y. J., Ha, D. W., Na, E. H., & Kim, K. H. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
+`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y. J., Ha, D. W., Na, E. H., & Kim, K. H. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. (https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
 
 #### 2023
  
