@@ -86,19 +86,19 @@
 
 #### 2016
 
-`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
+`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. -> (https://doi.org/10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
 
 #### 2020
 
-`-` Jung, K. Y., Cho, S. H., Hwang, S. Y., Lee, Y. J., Kim, K. H., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (link : https://doi.org/10.3390/su12219149) (https://www.mdpi.com/) 
+`-` Jung, K. Y., Cho, S. H., Hwang, S. Y., Lee, Y. J., Kim, K. H., & Na, E. H. (2020). Identification of High-Priority Tributaries for Water Quality Management in Nakdong River Using Neural Networks and Grade Classification. Sustainability, 12(21), 9149. -> (https://doi.org/10.3390/su12219149) (https://www.mdpi.com/2071-1050/12/21/9149) 
 
 #### 2022
 
-`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y. J., Ha, D. W., Na, E. H., & Kim, K. H. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (link : https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
+`-` Jung, K. Y., Lee, K. L., Hwang, S. Y., Lee, Y. J., Ha, D. W., Na, E. H., & Kim, K. H. (2022). New Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River, Republic of Korea. Journal of Hydrologic Engineering, 27(4), 04022002. -> (https://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0002165) (https://ascelibrary.org/toc/jhyeff/27/4)
 
 #### 2023
  
-`-`
+`-` Hwang, S. Y., Choi, B. W., Park, J. H., Shin, D. S., Chung, H. S., Son, M. S., Lim, C. H., Chae, H. M., Ha, D. W., & Jung, K. Y. (2023). Evaluating Statistical Machine Learning Algorithms for Classifying Dominant Algae in Juam Lake and Tamjin Lake, Republic of Korea. Water, 15(9), 1738. (https://doi.org/10.3390/w15091738) (https://www.mdpi.com/2073-4441/15/9/1738) 
 
 #### 2024
 
