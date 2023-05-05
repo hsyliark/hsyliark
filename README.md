@@ -13,7 +13,7 @@
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
-`-` My name is Seong-Yun Hwang and I'm from Republic of Korea. I'm a Junior Environmental Researcher in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
+`-` My name is Seong-Yun Hwang and I'm from Republic of Korea. I'm an Environmental Researcher in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
 ## Contact Information
 
@@ -42,8 +42,8 @@
 
 ## Working
 
-`-` Ministry of Environment, National Institute of Environmental Research, Incheon, Republic of Korea 
-- Yeongsan River Water Environment Research Center, Gwangju, Republic of Korea, junior environmental researcher (2019.9 ~ currently)
+`-` Ministry of Environment, Republic of Korea 
+- Yeongsan River Water Environment Research Center, National Institute of Environmental Research, Gwangju, Republic of Korea, environmental researcher (2019.9 ~ currently)
 -
 -
 
@@ -76,7 +76,7 @@
 
 ### Master's Degree (Advisor : Prof. Seok-Ho Lee)
 
-`-` Hwang, S. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea (http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
+`-` Hwang, S. Y. (2017). A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis). Hankuk University of Foreign Studies, Seoul, Republic of Korea (http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 
 ### Doctor's Degree (Advisor : Prof. Seong-Jun Yang)
 
@@ -86,7 +86,7 @@
 
 #### 2016
 
-`-` Han, S., Hwang, S., & Lee, S. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. (https://doi.org/10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
+`-` Han, S. Y., Hwang, S. Y., & Lee, S. H. (2016). Ensemble approach for improving prediction in kernel regression and classification. Communications for Statistical Applications and Methods, 23(4), 355-362. (https://doi.org/10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
 
 #### 2020
 
@@ -99,6 +99,8 @@
 #### 2023
  
 `-` Hwang, S. Y., Choi, B. W., Park, J. H., Shin, D. S., Chung, H. S., Son, M. S., Lim, C. H., Chae, H. M., Ha, D. W., & Jung, K. Y. (2023). Evaluating Statistical Machine Learning Algorithms for Classifying Dominant Algae in Juam Lake and Tamjin Lake, Republic of Korea. Water, 15(9), 1738. (https://doi.org/10.3390/w15091738) (https://www.mdpi.com/2073-4441/15/9/1738) 
+
+`-` 
 
 #### 2024
 
