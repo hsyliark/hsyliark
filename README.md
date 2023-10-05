@@ -100,9 +100,19 @@
  
 `-` Hwang, S. Y., Choi, B. W., Park, J. H., Shin, D. S., Chung, H. S., Son, M. S., Lim, C. H., Chae, H. M., Ha, D. W., & Jung, K. Y. (2023). Evaluating Statistical Machine Learning Algorithms for Classifying Dominant Algae in Juam Lake and Tamjin Lake, Republic of Korea. Water, 15(9), 1738. (https://doi.org/10.3390/w15091738) (https://www.mdpi.com/2073-4441/15/9/1738) 
 
-`-` 
+`-` Hwang, S. Y., Choi, B. W., Park, J. H., Shin, D. S., Lee, W. S., Chung, H. S., Son, M. S., Ha, D. W., Lee, K. L., & Jung, K. Y. (2023). Evaluation of algal species distributions and prediction of cyanophyte cell counts using statistical techniques. Environmental Science and Pollution Research, (), . (https://doi.org/10.1007/s11356-023-30077-8) ()  
 
 #### 2024
+
+`-`
+
+`-`
+
+#### 2025
+
+`-`
+
+#### 2026
 
 `-`
 
@@ -136,3 +146,7 @@
 - place : Jeju National University
 - period : 2022.12.1. ~ 2022.12.3.
 - Tutorial : No tutorial...
+### 2023 The Korean Statistical Society Thesis presentation seminar in Winter
+- place : Seongshin Women's University
+- period : 2023.12.1. ~ 2023.12.2.
+- Tutorial : 
