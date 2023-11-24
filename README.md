@@ -4,7 +4,7 @@
 
 ## Profile  
 
-### Name : Seong-Yun Hwang 
+### Name : Seong-Yun Hwang (Ph.D candidate (Statistics))
 ### National : Republic of Korea
 ### Identity : Junior Environmental Researcher (Ministry of Environment, National Institute of Environmental Research(NIER), Republic of Korea)
 ### Language 
@@ -60,16 +60,23 @@
 - Data handling
 - Programming (include algorithm)
 - Statistical analysis
-- Statistical Machine Learning algorithm
+- Statistical Models
+- Statistical Machine Learning algorithms
 - Data mining
-### python
+### Python
 - Data handling with Numpy, Pandas
 - Programming (include algorithm) 
 - Matplotlib and Seaborn for graphing
-- Machine Learning (include Deep Learning) simulation with Keras, TensorFlow
+- Artificial Intelligence algorithms (include Machine Learning) simulation with Keras, TensorFlow
 ### SAS
 - Programming (base certificate level)
 - Statistical analysis
+### Delft3D
+- Modelling (base level)
+- Delft3D-FLOW
+- Delft3D-WAQ
+- Delft3D-SED
+- Delft3D-BLOOM
 
 
 ## Some dissertations
@@ -106,13 +113,13 @@
 
 #### 2024
 
-`-` Hwang, S. Y., Jung, S. J., Park, J. H., Lee, W. S, Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, K. Y. (2024). 
+`-` Hwang, S. Y., Jung, S. J., Park, J. H., Lee, W. S, Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, K. Y. (2024). New evaluation method of probability distribution and prediction models for Chlorophyll-a using Statistical Models and Artificial Intelligence based Algorithms. , (), . () () 
 
-`-`
+`-` 
 
 #### 2025
 
-`-`
+`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2025). New evaluation method of multi-classifying sediment measurement network contamination stage using Statistical Machine Learning Algorithms with Sampling Tachniques for imbalanced data. , (), . () ()
 
 `-`
 
