@@ -4,16 +4,17 @@
 
 ## Profile  
 
-### Name : Seong-Yun Hwang (Ph.D candidate (Statistics))
+### Seong-Yun Hwang 
+### Environmental Researcher
+### Ph.D candidate (Statistics)
 ### National : Republic of Korea
-### Identity : Junior Environmental Researcher (Ministry of Environment, National Institute of Environmental Research(NIER), Republic of Korea)
 ### Language 
 - Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
 - Chinese(中文) (Limited conversation for daily life) 
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
-`-` My name is Seong-Yun Hwang and I'm from Republic of Korea. I'm an Environmental Researcher in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Machine Learning for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
+`-` My name is Seong-Yun Hwang and I'm from Republic of Korea. I'm an Environmental Researcher in Ministry of Environment, NIER(National Institute of Environmental Research), Republic of Korea. I'm interested in applying Statistical Models, Statistical Machine Learning Algorithms and Artificial Intelligence based Algorithms for analysis of environmental data and survival data. I will receive my Ph.D degree from the Department of Statistics, Jeonbuk National University, under the supervison of Prof. Seong-Jun Yang. 
 
 ## Contact Information
 
