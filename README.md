@@ -110,7 +110,7 @@
 
 `-` Hwang, S. Y., Choi, B. W., Park, J. H., Shin, D. S., Lee, W. S., Chung, H. S., Son, M. S., Ha, D. W., Lee, K. L. & Jung, K. Y. (2023). Evaluation of algal species distributions and prediction of cyanophyte cell counts using statistical techniques. Environmental Science and Pollution Research, 1-22. (https://doi.org/10.1007/s11356-023-30077-8) (https://link.springer.com/article/10.1007/s11356-023-30077-8) 
 
-`-` Choi, B. W., Park, J. H., Kang, T. W., Ha, D. W., Hwang, S. Y., Lee, W. S., Na, E. H. & Choi, J. Y. (2023). Changes in Hydraulics-Water Quality-Bloom-Aquatic Habitat using an Integrated Chain Modelling and Artificial Intelligence Technique in the Yeongsan River. Sustainability, (), . () () 
+`-` Choi, B. W., Park, J. H., Kang, T. W., Ha, D. W., Hwang, S. Y., Lee, W. S., Na, E. H. & Choi, J. Y. (2023). Changes in Hydraulics-Water Quality-Bloom-Aquatic Habitat using an Integrated Chain Modelling and Artificial Intelligence Technique in the Yeongsan River. Sustainability, 15(23), 16355. (https://doi.org/10.3390/su152316355) (https://www.mdpi.com/2071-1050/15/23/16355) 
 
 #### 2024
 
