@@ -114,21 +114,15 @@
 
 #### 2024
 
-`-` Hwang, S. Y., Jung, S. J., Park, J. H., Lee, W. S, Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, K. Y. (2024). New evaluation method of probability distribution and prediction models for Chlorophyll-a using Statistical Models and Artificial Intelligence based Algorithms. , (), . () () 
-
-`-` Choi, J., Lee, Y. M., Kang, T. W., Ha, D. W., Hwang, S. Y., Lee, Y. J. & Lee, W. S. (2024). Selection of priority watershed for water environment management. Water environment research: a research publication of the Water Environment Federation, 96(11), e11151. (https://doi.org/10.1002/wer.11151) (https://pubmed.ncbi.nlm.nih.gov/39568372/) 
+`-` Choi, J. Y., Lee, Y. M., Kang, T. W., Ha, D. W., Hwang, S. Y., Lee, Y. J. & Lee, W. S. (2024). Selection of priority watershed for water environment management. Water environment research: a research publication of the Water Environment Federation, 96(11), e11151. (https://doi.org/10.1002/wer.11151) (https://pubmed.ncbi.nlm.nih.gov/39568372/) 
 
 #### 2025
 
-`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2025). New evaluation method of multi-classifying sediment measurement network contamination stage using Statistical Machine Learning Algorithms with Sampling Tachniques for imbalanced data. , (), . () ()
-
-`-`
+`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2025). Evaluation method for probability distribution and prediction models for chlorophyll-a based on statistical models and artificial intelligence based algorithms. Environmental Science and Pollution Research, . () ()  
 
 #### 2026
 
-`-`
-
-`-`
+`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2026). New evaluation method of multi-classifying sediment measurement network contamination stage using Statistical Machine Learning Algorithms with Sampling Tachniques for imbalanced data. , (), . () ()
 
 ## Experience
 
