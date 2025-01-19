@@ -118,7 +118,9 @@
 
 #### 2025
 
-`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2025). Evaluation method for probability distribution and prediction models for chlorophyll-a based on statistical models and artificial intelligence based algorithms. Environmental Science and Pollution Research, . () ()  
+`-` Ha, D. W., Baek, J. H., Hwang, S. Y., Lee, Y. J., Lee, W. S., & Choi, J. Y. (2025). Analysis of the Pollution Load Contribution Rate of Inflowing Tributaries for the Sustainable Management of the Seomjin River (Seombon D). Sustainability, 17(2), 411. (https://www.mdpi.com/2071-1050/17/2/411) (https://doi.org/10.3390/su17020411)
+
+`-` Hwang, S. Y., Jung, K. Y., Park, J. H., Lee, W. S., Kang, T. W., Choi, J. Y., Lee, Y. M. & Jung, S. J. (2025). Evaluation method for probability distribution and prediction models for chlorophyll-a based on statistical models and artificial intelligence based algorithms. , . () ()  
 
 #### 2026
 
